@@ -66,7 +66,7 @@
             location.reload(true);
         }
         if (numIntentos == 0) {
-            alert('Has Perdido!!! Era: ' + palabraAdivinar.join(''));
+            alert('Perdiste!!! Era: ' + palabraAdivinar.join(''));
             location.reload(true);
         }
     }
